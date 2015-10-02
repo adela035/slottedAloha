@@ -1,0 +1,2 @@
+# slottedAloha
+Class Assignment
